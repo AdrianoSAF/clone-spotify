@@ -1,0 +1,9 @@
+:root{
+    /* Coloca as variáveis de cores CSS Variators */
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0, 0, 07);
+}
